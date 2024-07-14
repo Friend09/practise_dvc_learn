@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/vamsi_mbmax/Documents/temp_dvc_folder
