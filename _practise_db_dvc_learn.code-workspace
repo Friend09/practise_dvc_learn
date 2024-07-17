@@ -7,5 +7,7 @@
 			"path": "../../../../../../../../Documents/temp_dvc_folder"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practise_db_dvc_learn"
+	}
 }
